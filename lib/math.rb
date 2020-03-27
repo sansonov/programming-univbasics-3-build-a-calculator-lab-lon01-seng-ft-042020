@@ -19,9 +19,10 @@ return mul
 end
 
 def modulo(num1, num2)
-
+rem = num2%num1
+return rem
 end
 
 def square_root(num)
-
+sq = 
 end

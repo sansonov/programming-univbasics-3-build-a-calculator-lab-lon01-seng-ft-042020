@@ -9,7 +9,7 @@ return subs
 end
 
 def division(num1, num2)
-divs = num2 / num1
+divs = num1 / num2
 return divs
 end
 

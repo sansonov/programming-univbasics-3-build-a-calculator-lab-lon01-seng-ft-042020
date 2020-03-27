@@ -19,7 +19,7 @@ return mul
 end
 
 def modulo(num1, num2)
-rem = num2%num1
+rem = num1%num2
 return rem
 end
 
